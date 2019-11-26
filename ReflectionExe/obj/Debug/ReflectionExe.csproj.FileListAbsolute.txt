@@ -1,0 +1,10 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionExe\bin\Debug\ReflectionExe.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionExe\bin\Debug\ReflectionExe.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionExe\bin\Debug\ReflectionExe.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionExe\bin\Debug\ReflectionInterface.dll
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionExe\bin\Debug\ReflectionInterface.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionExe\obj\Debug\ReflectionExe.csprojAssemblyReference.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionExe\obj\Debug\ReflectionExe.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionExe\obj\Debug\ReflectionExe.csproj.CopyComplete
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionExe\obj\Debug\ReflectionExe.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionExe\obj\Debug\ReflectionExe.pdb

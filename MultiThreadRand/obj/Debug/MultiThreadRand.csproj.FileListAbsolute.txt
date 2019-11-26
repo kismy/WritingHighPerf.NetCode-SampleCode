@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MultiThreadRand\bin\Debug\MultiThreadRand.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MultiThreadRand\bin\Debug\MultiThreadRand.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MultiThreadRand\bin\Debug\MultiThreadRand.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MultiThreadRand\obj\Debug\MultiThreadRand.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MultiThreadRand\obj\Debug\MultiThreadRand.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MultiThreadRand\obj\Debug\MultiThreadRand.pdb

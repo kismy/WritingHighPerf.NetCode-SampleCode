@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\EtlDemo\bin\Debug\EtlDemo.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\EtlDemo\bin\Debug\EtlDemo.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\EtlDemo\bin\Debug\EtlDemo.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\EtlDemo\obj\Debug\EtlDemo.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\EtlDemo\obj\Debug\EtlDemo.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\EtlDemo\obj\Debug\EtlDemo.pdb

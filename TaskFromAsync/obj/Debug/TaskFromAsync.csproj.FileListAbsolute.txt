@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskFromAsync\bin\Debug\TaskFromAsync.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskFromAsync\bin\Debug\TaskFromAsync.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskFromAsync\bin\Debug\TaskFromAsync.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskFromAsync\obj\Debug\TaskFromAsync.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskFromAsync\obj\Debug\TaskFromAsync.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskFromAsync\obj\Debug\TaskFromAsync.pdb

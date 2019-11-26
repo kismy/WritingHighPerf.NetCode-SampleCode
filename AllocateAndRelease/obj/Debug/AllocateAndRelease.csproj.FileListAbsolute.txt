@@ -1,0 +1,7 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AllocateAndRelease\bin\Debug\AllocateAndRelease.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AllocateAndRelease\bin\Debug\AllocateAndRelease.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AllocateAndRelease\bin\Debug\AllocateAndRelease.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AllocateAndRelease\obj\Debug\AllocateAndRelease.csprojAssemblyReference.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AllocateAndRelease\obj\Debug\AllocateAndRelease.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AllocateAndRelease\obj\Debug\AllocateAndRelease.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AllocateAndRelease\obj\Debug\AllocateAndRelease.pdb

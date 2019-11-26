@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HeavyBoxing\bin\Debug\HeavyBoxing.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HeavyBoxing\bin\Debug\HeavyBoxing.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HeavyBoxing\bin\Debug\HeavyBoxing.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HeavyBoxing\obj\Debug\HeavyBoxing.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HeavyBoxing\obj\Debug\HeavyBoxing.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HeavyBoxing\obj\Debug\HeavyBoxing.pdb

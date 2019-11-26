@@ -1,0 +1,7 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncAwait\bin\Debug\AsyncAwait.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncAwait\bin\Debug\AsyncAwait.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncAwait\obj\Debug\AsyncAwait.csprojAssemblyReference.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncAwait\obj\Debug\AsyncAwait.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncAwait\obj\Debug\AsyncAwait.pdb

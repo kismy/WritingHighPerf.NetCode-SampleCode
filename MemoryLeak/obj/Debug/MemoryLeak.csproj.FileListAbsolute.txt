@@ -1,0 +1,7 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MemoryLeak\bin\Debug\MemoryLeak.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MemoryLeak\bin\Debug\MemoryLeak.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MemoryLeak\bin\Debug\MemoryLeak.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MemoryLeak\obj\Debug\MemoryLeak.csprojAssemblyReference.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MemoryLeak\obj\Debug\MemoryLeak.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MemoryLeak\obj\Debug\MemoryLeak.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\MemoryLeak\obj\Debug\MemoryLeak.pdb

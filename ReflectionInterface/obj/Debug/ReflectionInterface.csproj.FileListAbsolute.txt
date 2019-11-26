@@ -1,0 +1,5 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionInterface\bin\Debug\ReflectionInterface.dll
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionInterface\bin\Debug\ReflectionInterface.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionInterface\obj\Debug\ReflectionInterface.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionInterface\obj\Debug\ReflectionInterface.dll
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ReflectionInterface\obj\Debug\ReflectionInterface.pdb

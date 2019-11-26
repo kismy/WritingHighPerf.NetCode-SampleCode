@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ExceptionCost\bin\Debug\ExceptionCost.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ExceptionCost\bin\Debug\ExceptionCost.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ExceptionCost\bin\Debug\ExceptionCost.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ExceptionCost\obj\Debug\ExceptionCost.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ExceptionCost\obj\Debug\ExceptionCost.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ExceptionCost\obj\Debug\ExceptionCost.pdb

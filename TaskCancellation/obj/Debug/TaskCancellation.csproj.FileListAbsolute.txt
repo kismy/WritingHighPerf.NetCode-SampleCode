@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskCancellation\bin\Debug\TaskCancellation.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskCancellation\bin\Debug\TaskCancellation.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskCancellation\bin\Debug\TaskCancellation.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskCancellation\obj\Debug\TaskCancellation.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskCancellation\obj\Debug\TaskCancellation.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\TaskCancellation\obj\Debug\TaskCancellation.pdb

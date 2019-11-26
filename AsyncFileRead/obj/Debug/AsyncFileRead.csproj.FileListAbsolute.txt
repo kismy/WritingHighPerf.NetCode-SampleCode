@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncFileRead\bin\Debug\AsyncFileRead.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncFileRead\bin\Debug\AsyncFileRead.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncFileRead\bin\Debug\AsyncFileRead.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncFileRead\obj\Debug\AsyncFileRead.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncFileRead\obj\Debug\AsyncFileRead.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\AsyncFileRead\obj\Debug\AsyncFileRead.pdb

@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CompressFiles\bin\Debug\CompressFiles.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CompressFiles\bin\Debug\CompressFiles.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CompressFiles\bin\Debug\CompressFiles.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CompressFiles\obj\Debug\CompressFiles.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CompressFiles\obj\Debug\CompressFiles.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CompressFiles\obj\Debug\CompressFiles.pdb

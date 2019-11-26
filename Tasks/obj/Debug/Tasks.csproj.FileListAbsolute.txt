@@ -1,0 +1,7 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Tasks\bin\Debug\Tasks.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Tasks\bin\Debug\Tasks.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Tasks\bin\Debug\Tasks.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Tasks\obj\Debug\Tasks.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Tasks\obj\Debug\Tasks.pdb

@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ForEachVsFor\bin\Debug\ForEachVsFor.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ForEachVsFor\bin\Debug\ForEachVsFor.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ForEachVsFor\bin\Debug\ForEachVsFor.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ForEachVsFor\obj\Debug\ForEachVsFor.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ForEachVsFor\obj\Debug\ForEachVsFor.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\ForEachVsFor\obj\Debug\ForEachVsFor.pdb

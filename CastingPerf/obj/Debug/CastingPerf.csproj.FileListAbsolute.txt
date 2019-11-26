@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CastingPerf\bin\Debug\CastingPerf.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CastingPerf\bin\Debug\CastingPerf.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CastingPerf\bin\Debug\CastingPerf.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CastingPerf\obj\Debug\CastingPerf.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CastingPerf\obj\Debug\CastingPerf.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\CastingPerf\obj\Debug\CastingPerf.pdb

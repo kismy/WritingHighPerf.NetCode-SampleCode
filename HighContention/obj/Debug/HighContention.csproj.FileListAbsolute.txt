@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HighContention\bin\Debug\HighContention.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HighContention\bin\Debug\HighContention.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HighContention\bin\Debug\HighContention.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HighContention\obj\Debug\HighContention.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HighContention\obj\Debug\HighContention.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\HighContention\obj\Debug\HighContention.pdb

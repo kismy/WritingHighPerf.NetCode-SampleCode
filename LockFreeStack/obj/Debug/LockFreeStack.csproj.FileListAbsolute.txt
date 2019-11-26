@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LockFreeStack\bin\Debug\LockFreeStack.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LockFreeStack\bin\Debug\LockFreeStack.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LockFreeStack\bin\Debug\LockFreeStack.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LockFreeStack\obj\Debug\LockFreeStack.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LockFreeStack\obj\Debug\LockFreeStack.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LockFreeStack\obj\Debug\LockFreeStack.pdb

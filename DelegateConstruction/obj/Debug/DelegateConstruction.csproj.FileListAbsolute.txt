@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\DelegateConstruction\bin\Debug\DelegateConstruction.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\DelegateConstruction\bin\Debug\DelegateConstruction.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\DelegateConstruction\bin\Debug\DelegateConstruction.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\DelegateConstruction\obj\Debug\DelegateConstruction.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\DelegateConstruction\obj\Debug\DelegateConstruction.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\DelegateConstruction\obj\Debug\DelegateConstruction.pdb

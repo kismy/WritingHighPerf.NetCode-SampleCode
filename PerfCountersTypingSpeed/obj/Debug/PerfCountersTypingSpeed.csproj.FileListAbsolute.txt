@@ -1,0 +1,10 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PerfCountersTypingSpeed\bin\Debug\PerfCountersTypingSpeed.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PerfCountersTypingSpeed\bin\Debug\PerfCountersTypingSpeed.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PerfCountersTypingSpeed\bin\Debug\PerfCountersTypingSpeed.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PerfCountersTypingSpeed\obj\Debug\PerfCountersTypingSpeed.csprojAssemblyReference.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PerfCountersTypingSpeed\obj\Debug\PerfCountersTypingSpeed.Form1.resources
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PerfCountersTypingSpeed\obj\Debug\PerfCountersTypingSpeed.Properties.Resources.resources
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PerfCountersTypingSpeed\obj\Debug\PerfCountersTypingSpeed.csproj.GenerateResource.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PerfCountersTypingSpeed\obj\Debug\PerfCountersTypingSpeed.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PerfCountersTypingSpeed\obj\Debug\PerfCountersTypingSpeed.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PerfCountersTypingSpeed\obj\Debug\PerfCountersTypingSpeed.pdb

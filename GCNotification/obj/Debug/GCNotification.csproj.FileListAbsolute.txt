@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\GCNotification\bin\Debug\GCNotification.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\GCNotification\bin\Debug\GCNotification.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\GCNotification\bin\Debug\GCNotification.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\GCNotification\obj\Debug\GCNotification.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\GCNotification\obj\Debug\GCNotification.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\GCNotification\obj\Debug\GCNotification.pdb

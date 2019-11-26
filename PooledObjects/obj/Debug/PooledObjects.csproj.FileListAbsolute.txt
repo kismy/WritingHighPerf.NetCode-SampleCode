@@ -1,0 +1,6 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PooledObjects\bin\Debug\PooledObjects.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PooledObjects\bin\Debug\PooledObjects.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PooledObjects\bin\Debug\PooledObjects.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PooledObjects\obj\Debug\PooledObjects.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PooledObjects\obj\Debug\PooledObjects.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\PooledObjects\obj\Debug\PooledObjects.pdb

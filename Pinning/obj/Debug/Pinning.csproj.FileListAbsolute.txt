@@ -1,0 +1,7 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Pinning\bin\Debug\Pinning.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Pinning\bin\Debug\Pinning.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Pinning\bin\Debug\Pinning.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Pinning\obj\Debug\Pinning.csprojAssemblyReference.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Pinning\obj\Debug\Pinning.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Pinning\obj\Debug\Pinning.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\Pinning\obj\Debug\Pinning.pdb

@@ -1,0 +1,7 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LargeMemoryUsage\bin\Debug\LargeMemoryUsage.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LargeMemoryUsage\bin\Debug\LargeMemoryUsage.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LargeMemoryUsage\bin\Debug\LargeMemoryUsage.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LargeMemoryUsage\obj\Debug\LargeMemoryUsage.csprojAssemblyReference.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LargeMemoryUsage\obj\Debug\LargeMemoryUsage.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LargeMemoryUsage\obj\Debug\LargeMemoryUsage.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\LargeMemoryUsage\obj\Debug\LargeMemoryUsage.pdb

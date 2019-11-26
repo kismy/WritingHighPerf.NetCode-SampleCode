@@ -1,0 +1,7 @@
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\JitCall\bin\Debug\JitCall.exe.config
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\JitCall\bin\Debug\JitCall.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\JitCall\bin\Debug\JitCall.pdb
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\JitCall\obj\Debug\JitCall.csprojAssemblyReference.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\JitCall\obj\Debug\JitCall.csproj.CoreCompileInputs.cache
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\JitCall\obj\Debug\JitCall.exe
+H:\12121320PZH\SikiEdu\WritingHighPerf.NetCode-SampleCode\JitCall\obj\Debug\JitCall.pdb
